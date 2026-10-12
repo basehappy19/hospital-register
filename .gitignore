@@ -1,2 +1,5 @@
 /node_modules
 /vendor
+/configs/db.php
+/.env
+/seed_patients.php
